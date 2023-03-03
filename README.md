@@ -3,7 +3,6 @@
   <li><a href="#Mamix">ItsMamix</a></li>
   <li><a href="#A4">A4</a></li>
   <li><a href="#Maslo">Дима Масленников</a></li>
-  <li><a href="#Vdud">вДудь</a></li>
   <li><a href="#Himan">HiMan</a></li>
   <li><a href="#Marmok">Marmok</a></li>
   <li><a href="#Kuplinov">Kuplinov ► Play</a></li>
